@@ -1,0 +1,6 @@
+name=Mear Brest Ciso
+bundle=oakline.mearbrestciso.corpapp
+organization=OAKLINE COMMERCE LTD.
+alias=key
+pwd=npvrshdU0fJjCtyP2PGq
+key-pwd=npvrshdU0fJjCtyP2PGq
