@@ -1,0 +1,33 @@
+AssetBasedConstructor
+donor: QuizAppDonor (app.quiz.donor)
+project: Mear Brest Ciso (oakline.mearbrestciso.corpapp)
+prefix: OEEOP
+seed: 3960793151311436873
+app/src/main/java/app/quiz/donor/ui/composable/approot/background -> v_drift
+app/src/main/java/app/quiz/donor/ui/composable/approot/background/points -> v_halo
+app/src/main/java/app/quiz/donor/ui/composable/approot/topbar -> v_divider
+app/src/main/java/app/quiz/donor/ui/composable/screen/about/card -> v_row
+app/src/main/java/app/quiz/donor/ui/composable/screen/about/rules/header -> v_divider
+app/src/main/java/app/quiz/donor/ui/composable/screen/about/rules/list -> v_divided_rows
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/answer/button -> v_border
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/answer/layout -> v_grid
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/question -> v_stripe
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/streak -> v_flame
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/timer -> v_linear
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/transition -> v_scale
+app/src/main/java/app/quiz/donor/ui/composable/screen/game_over/player -> v_border
+app/src/main/java/app/quiz/donor/ui/composable/screen/game_over/result -> v_number
+app/src/main/java/app/quiz/donor/ui/composable/screen/high_scores/card -> v_row
+app/src/main/java/app/quiz/donor/ui/composable/screen/high_scores/filter -> v_segmented
+app/src/main/java/app/quiz/donor/ui/composable/screen/high_scores/filter/chip -> v_text_only
+app/src/main/java/app/quiz/donor/ui/composable/screen/main_menu/content/buttons/play_mode -> v_stacked
+app/src/main/java/app/quiz/donor/ui/composable/screen/main_menu/content/buttons/secondary -> v_row
+app/src/main/java/app/quiz/donor/ui/composable/screen/main_menu/content/header -> v_icon_inline
+app/src/main/java/app/quiz/donor/ui/composable/screen/shared/button -> v_plain
+app/src/main/java/app/quiz/donor/ui/composable/screen/shared/modifier/press -> v_scale
+app/src/main/java/app/quiz/donor/ui/composable/screen/splash -> v_bounce
+app/src/main/java/app/quiz/donor/ui/composable/screen/topic_selection/card -> v_border
+app/src/main/java/app/quiz/donor/ui/composable/screen/topic_selection/list -> v_grid
+app/src/main/java/app/quiz/donor/ui/theme -> v_cp4728
+app/src/main/java/app/quiz/donor/ui/theme/dimens -> v_podium
+app/src/main/java/app/quiz/donor/ui/theme/typography -> v_font_scholar
